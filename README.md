@@ -6,6 +6,8 @@
 
 **[Start reading in English](https://chinesestudy.org/en/)** · **[进入中文书库](https://chinesestudy.org/zh-hans/)**
 
+[PRs welcome](CONTRIBUTING.md) · [Reading guide website](https://chinesestudyorg.github.io/) · [Curated classical Chinese resources](https://github.com/chinesestudyorg/awesome-chinese-classics)
+
 ## What you can read
 
 The library brings together poetry, philosophy, early education, and strategy. These links open the English reading editions; use the language selector on the website to explore available alternatives.
@@ -33,6 +35,7 @@ For a first session, try [Li Bai’s Drinking Alone under the Moon](https://chin
 The guides in this repository help you choose a text and approach it with a concrete reading task.
 
 - [Getting started with classical Chinese](guides/getting-started.md): a manageable first reading session.
+- [A week of reading Chinese classics](guides/one-week-reading-plan.md): seven short sessions with concrete questions and a reusable reading note.
 - [Reading Tang poetry](guides/tang-poetry.md): follow a scene, a speaker, and a change in feeling.
 - [Reading Chinese philosophy](guides/chinese-philosophy.md): compare a short chapter with a conversation.
 - [Using pinyin and translation](guides/pinyin-and-translation.md): separate pronunciation, wording, and interpretation.

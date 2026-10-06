@@ -6,6 +6,8 @@
 
 **[开始中文阅读](https://chinesestudy.org/zh-hans/)** · **[进入英文阅读入口](https://chinesestudy.org/en/)**
 
+也可以先看[经典阅读导读](https://chinesestudyorg.github.io/zh/)，或参考[精选原典与字词工具](https://github.com/chinesestudyorg/awesome-chinese-classics/blob/main/README.zh-CN.md)；[一周阅读练习](guides/one-week-reading-plan.md)提供每天可以完成的小任务。
+
 ## 从哪本书开始
 
 | 典籍 | 可以怎样读 |
