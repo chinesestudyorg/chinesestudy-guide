@@ -1,0 +1,34 @@
+name: Reading feedback
+description: Report a text or link problem, or suggest a reading guide.
+title: "[Reading feedback] "
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Feedback type
+      options:
+        - Broken or incorrect link
+        - Original text, translation, or notes
+        - Reading guide improvement
+        - Website reading problem
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page URL or repository file
+      description: Include the reading language where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What did you notice?
+      description: Include the exact expression, proposed change, or steps to reproduce the problem. Keep private information out of public issues.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting source
+      description: For text or translation corrections, include a source, edition, and relevant passage or page number.
