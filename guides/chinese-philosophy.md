@@ -20,6 +20,10 @@ For a second reading, ask whether the advice depends on the person or circumstan
 
 The [Confucius reading path](https://chinesestudy.org/en/figures/confucius/) links background and ideas with passages for further reading.
 
+## Continue with arguments and stories
+
+The published [Mencius](https://chinesestudy.org/en/books/mengzi/) selections let you follow a longer exchange with a ruler. Use the [Mencius guide](reading-mencius.md) to separate a question, an analogy, and a conclusion. The [Zhuangzi Inner Chapters](https://chinesestudy.org/en/books/zhuangzi/) call for attention to changing speakers and situations; the [Zhuangzi guide](reading-zhuangzi.md) begins with Cook Ding in Nurturing Life.
+
 ## Compare how the passages work
 
 A compact chapter and a conversation may require different kinds of attention. Compare one feature at a time: an image, a repeated word, a speaker’s answer, or the structure of a claim. Record the passage and your reasoning so you can reconsider the comparison later.

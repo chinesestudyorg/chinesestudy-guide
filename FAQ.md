@@ -18,6 +18,14 @@ Classical texts can use words and sentence patterns differently from modern Mand
 
 The website has [English](https://chinesestudy.org/en/), [简体中文](https://chinesestudy.org/zh-hans/), and [Spanish](https://chinesestudy.org/es/) entrances. Spanish currently offers selected paths around Confucius, Laozi, and Sun Tzu. Coverage varies across works and languages.
 
+## How much of Mencius and Zhuangzi is available?
+
+As checked on 15 October 2026, [Mencius](https://chinesestudy.org/en/books/mengzi/) lists 23 sections from Liang Hui Wang I and II; [Zhuangzi](https://chinesestudy.org/en/books/zhuangzi/) lists the seven Inner Chapters. These are selections from the larger received works. For reading tasks, see [Reading Mencius](guides/reading-mencius.md) and [Reading Zhuangzi](guides/reading-zhuangzi.md).
+
+## Can I change the reading display?
+
+Reading pages offer pinyin and translation controls, text size, line spacing, and dark mode. To examine the Chinese without pronunciation aids, turn pinyin off. For a page-specific problem, use its Feedback link and describe the exact wording and language.
+
 ## Where should I start?
 
 For poetry, try [Drinking Alone under the Moon](https://chinesestudy.org/en/books/tangshi-sanbai/004-yue-xia-du-zhuo/). For a philosophical passage, try [Tao Te Ching chapter 1](https://chinesestudy.org/en/books/dao-de-jing/01/). Choose the text that interests you, and give yourself time to reread it.

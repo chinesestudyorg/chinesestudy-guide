@@ -20,6 +20,10 @@ Allow about fifteen minutes per session, or divide a session across two days. Th
 
 If you prefer modern Chinese explanations, use [《月下独酌》](https://chinesestudy.org/zh-hans/books/tangshi-sanbai/004-yue-xia-du-zhuo/) and [《道德经》第 1 章](https://chinesestudy.org/zh-hans/books/dao-de-jing/01/). Keep the reading task the same and change the language of your notes.
 
+## Choose a second week
+
+If you want a longer exchange, use [Why Speak of Gain?](https://chinesestudy.org/en/books/mengzi/01-he-bi-yue-li/) for the first three sessions: identify the king’s question, map Mencius’s response, then check your paraphrase. Spend the next three sessions with Cook Ding in [Nurturing Life](https://chinesestudy.org/en/books/zhuangzi/03-yang-sheng-zhu/): trace the actions, record the speaker’s explanation, and examine what the ruler takes from it. Review both notes on day seven. Use the [Mencius](reading-mencius.md) and [Zhuangzi](reading-zhuangzi.md) guides for prompts.
+
 ## A reusable reading note
 
 Copy this structure into your notebook. Quote only the short phrase needed for your question, and keep the source link with it.
