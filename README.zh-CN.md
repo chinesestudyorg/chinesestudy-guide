@@ -20,10 +20,15 @@
 | [三字经](https://chinesestudy.org/zh-hans/books/san-zi-jing/) | 借助三字一句的节奏，了解传统启蒙文本。 |
 | [孙子兵法](https://chinesestudy.org/zh-hans/books/sunzi-bingfa/) | 结合战争语境理解判断条件、行动成本和信息。 |
 | [周易](https://chinesestudy.org/zh-hans/books/zhouyi/) | 从一卦入手，逐步熟悉卦象与文字的关系。 |
+| [宋词三百首](https://chinesestudy.org/zh-hans/books/songci-sanbai/) | 先选一首，辨认意象，再比较同词牌的另一首。 |
+| [诗经](https://chinesestudy.org/zh-hans/books/shijing/) | 标出反复出现的句子，比较它周围变化的字词。 |
+| [千字文](https://chinesestudy.org/zh-hans/books/qianziwen/) | 从一小组短句入手，结合拼音和译文阅读。 |
+| [百家姓](https://chinesestudy.org/zh-hans/books/baijiaxing/) | 先读几个姓，核对读音；源流故事需另查出处。[^surname] |
+| [弟子规](https://chinesestudy.org/zh-hans/books/dizigui/) | 从一小段开始，区分历史礼俗和今天的使用语境。 |
 
 ## 新增阅读路径
 
-主站现已提供《孟子·梁惠王》上、下篇共 23 节，以及《庄子》内篇 7 篇；这说明当前可读范围，不代表两部书的全本。《唐诗三百首》目录列有 306 首，可按兴趣选择诗人和篇目。
+主站的中英文书库均列有13部书目。诗歌可从《诗经》305篇、《唐诗三百首》306首或《宋词三百首》310篇中选读；论辩和寓言则有《孟子》260个阅读入口、《庄子》33篇入口。不必按书目顺序读，先找一段想读的原文。[^scope]
 
 - **读论证：**从[《何必曰利》](https://chinesestudy.org/zh-hans/books/mengzi/01-he-bi-yue-li/)开始，辨认梁惠王的问题与孟子的回应，再看[《孟子》阅读练习（英文）](guides/reading-mencius.md)。
 - **读寓言：**在[《养生主》](https://chinesestudy.org/zh-hans/books/zhuangzi/03-yang-sheng-zhu/)中找到庖丁的故事，把动作、解释和文惠君的领会分别记下。参见[《庄子》阅读练习（英文）](guides/reading-zhuangzi.md)。
@@ -48,4 +53,6 @@
 
 阅读页支持切换拼音与译文、调整字号和行距，以及深色模式。遇到文字或译文问题，可通过页内反馈提交具体位置与说明。
 
-内容入口核对于 2026 年 10 月 15 日。各语言覆盖范围可能不同，请以对应书目目录为准。
+[^scope]: 这些数字统计主站公开目录中的阅读入口，不表示某个校勘本或每段译注已经完整核验。这里的中英文目录页数相同，西语仍为有限试点。音频和编号来源说明仅在部分页面提供。 参见[中文书库](https://chinesestudy.org/zh-hans/)及相应书目目录。
+
+[^surname]: 此处只提供读音练习。姓氏源流叙述需要另查出处，不能据此认定个人家族的世系。参见[原文入口](https://chinesestudy.org/zh-hans/books/baijiaxing/full-text/)。

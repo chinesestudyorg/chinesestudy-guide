@@ -22,10 +22,15 @@ The library brings together poetry, philosophy, early education, and strategy. T
 | [Three Character Classic](https://chinesestudy.org/en/books/san-zi-jing/) | 三字经 | Explore a traditional introductory text through rhythmic phrases. |
 | [The Art of War](https://chinesestudy.org/en/books/sunzi-bingfa/) | 孙子兵法 | Study strategic reasoning in its original military context. |
 | [I Ching / Book of Changes](https://chinesestudy.org/en/books/zhouyi/) | 周易 | Read a classical text with a distinctive structure and imagery. |
+| [Song Ci collection](https://chinesestudy.org/en/books/songci-sanbai/) | 宋词三百首 | Follow an image through one lyric, then compare another under the same tune label. |
+| [The Classic of Poetry / Shijing](https://chinesestudy.org/en/books/shijing/) | 诗经 | Mark a repeated line and compare the words around it. |
+| [Thousand Character Classic](https://chinesestudy.org/en/books/qianziwen/) | 千字文 | Read a short group of phrases with pronunciation support. |
+| [The Hundred Family Surnames](https://chinesestudy.org/en/books/baijiaxing/) | 百家姓 | Begin with a few surnames and check their pronunciation.[^surname] |
+| [Di Zi Gui](https://chinesestudy.org/en/books/dizigui/) | 弟子规 | Read a short passage with attention to its historical context. |
 
 ## New reading paths
 
-The live library now includes [Mencius](https://chinesestudy.org/en/books/mengzi/), with 23 sections from Liang Hui Wang I and II, and the seven Inner Chapters of [Zhuangzi](https://chinesestudy.org/en/books/zhuangzi/). These are the published selections, rather than claims of complete editions of either work. The Tang poetry catalogue lists 306 poems; use its contents to choose a form or an author, rather than reading it as a fixed beginner sequence.
+The ChineseStudy library has 13 book directories in both Chinese and English. Poetry readers can choose among 305 Classic of Poetry entries, 306 Tang poems, and 310 Song ci entries; readers interested in arguments or stories can browse 260 Mencius pages and 33 Zhuangzi chapter entrances. Start with one passage and use the guide that fits your question.[^scope]
 
 - **Follow an argument:** begin with [Why Speak of Gain?](https://chinesestudy.org/en/books/mengzi/01-he-bi-yue-li/) and ask how Mencius changes the king’s question. Continue with the [Mencius reading guide](guides/reading-mencius.md).
 - **Read a story:** open [Nurturing Life](https://chinesestudy.org/en/books/zhuangzi/03-yang-sheng-zhu/), find Cook Ding’s account, and distinguish what he does from what the ruler learns. Use the [Zhuangzi reading guide](guides/reading-zhuangzi.md) for a focused exercise.
@@ -74,4 +79,6 @@ This is the public introduction and reading-guide repository for ChineseStudy. T
 
 See [About ChineseStudy](https://chinesestudy.org/en/about/) for more about the project. To suggest a reading guide or report a problem, follow the [contribution guide](CONTRIBUTING.md).
 
-Content links and catalogue scope checked on 15 October 2026. Coverage can differ by language; consult the relevant book contents.
+[^scope]: The figures count reading-page links in the public ChineseStudy directories, not independently verified completeness of a critical edition or every translation. Chinese and English have matching directory counts here; Spanish coverage remains limited. Audio and numbered source notes are available on selected pages. See the [English book shelf](https://chinesestudy.org/en/) and each linked directory.
+
+[^surname]: This is a pronunciation exercise. Surname-origin accounts need separate evidence and do not establish an individual family’s lineage. See the [reading page](https://chinesestudy.org/en/books/baijiaxing/full-text/).

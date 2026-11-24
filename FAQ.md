@@ -20,7 +20,11 @@ The website has [English](https://chinesestudy.org/en/), [简体中文](https://
 
 ## How much of Mencius and Zhuangzi is available?
 
-As checked on 15 October 2026, [Mencius](https://chinesestudy.org/en/books/mengzi/) lists 23 sections from Liang Hui Wang I and II; [Zhuangzi](https://chinesestudy.org/en/books/zhuangzi/) lists the seven Inner Chapters. These are selections from the larger received works. For reading tasks, see [Reading Mencius](guides/reading-mencius.md) and [Reading Zhuangzi](guides/reading-zhuangzi.md).
+The Chinese and English [Mencius](https://chinesestudy.org/en/books/mengzi/) directories each list 260 reading pages; the [Zhuangzi](https://chinesestudy.org/en/books/zhuangzi/) directories each list 33 chapter entrances. The exercises still start with one exchange or story. These are directory counts, not a claim that every translation or textual issue has been independently verified.
+
+## Which poetry collection should I open?
+
+For repeated wording, try [Guan Ju in the Classic of Poetry](https://chinesestudy.org/en/books/shijing/001-guan-ju/). For a changing scene, try [Li Bai’s moon poem](https://chinesestudy.org/en/books/tangshi-sanbai/004-yue-xia-du-zhuo/). To compare two lyrics under one label, use the [Song ci directory](https://chinesestudy.org/en/books/songci-sanbai/). These are suggested first tasks, not difficulty rankings.
 
 ## Can I change the reading display?
 

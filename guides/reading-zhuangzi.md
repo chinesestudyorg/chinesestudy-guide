@@ -6,7 +6,7 @@ Begin with what happens in a story. Then ask who explains it, who listens, and h
 
 ## Begin with one story in the Inner Chapters
 
-The current ChineseStudy [Zhuangzi contents](https://chinesestudy.org/en/books/zhuangzi/) list the seven Inner Chapters, from Wandering Freely to Responding to Emperors and Kings. This is a published selection, not all 33 chapters of the received text. The [Zhuangzi introduction](https://chinesestudy.org/en/figures/zhuangzi/) offers a starting context; the first exercise needs only one story.
+The Chinese and English Zhuangzi directories each list 33 chapter entrances, extending beyond the seven Inner Chapters. The exercise below still begins with Cook Ding in Nurturing Life: distinguish what the cook does, what he says about it, and what his listener takes away.[^scope]
 
 ## Trace Cook Ding’s actions
 
@@ -22,4 +22,4 @@ Record four things: what happens, who offers an explanation, what the listener c
 
 Follow the [full reading exercise](https://chinesestudyorg.github.io/guides/reading-zhuangzi/) for the next passage and a comparison task. Prefer modern Chinese explanations? Open the [Chinese book contents](https://chinesestudy.org/zh-hans/books/zhuangzi/).
 
-Published selection and links checked on 15 October 2026.
+[^scope]: The figures count reading-page links in the public ChineseStudy directories, not independently verified completeness of a critical edition or every translation. Chinese and English have matching directory counts here; Spanish coverage remains limited. Audio and numbered source notes are available on selected pages. See the [current directory](https://chinesestudy.org/en/books/zhuangzi/).

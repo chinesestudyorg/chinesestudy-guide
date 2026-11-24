@@ -6,7 +6,7 @@ A conversation can change direction without changing speakers. Follow the questi
 
 ## Choose one exchange, not a whole doctrine
 
-The current ChineseStudy [Mencius contents](https://chinesestudy.org/en/books/mengzi/) offer 23 sections from Liang Hui Wang I and II. Start with one exchange. The [Mencius introduction](https://chinesestudy.org/en/figures/mencius/) gives background, but keep the ruler’s immediate question beside your notes. The published selection is not the whole received Mencius.
+The Chinese and English Mencius directories each list 260 reading pages. This guide still begins with one exchange from Liang Hui Wang: keep the ruler’s immediate question beside your notes and trace the reply before drawing a larger conclusion.[^scope]
 
 ## Notice how the question changes
 
@@ -22,4 +22,4 @@ Write the ruler’s question, Mencius’s example or reason, the conclusion, and
 
 Follow the [full reading exercise](https://chinesestudyorg.github.io/guides/reading-mencius/) for the next passage and a comparison task. Prefer modern Chinese explanations? Open the [Chinese book contents](https://chinesestudy.org/zh-hans/books/mengzi/).
 
-Published selection and links checked on 15 October 2026.
+[^scope]: The figures count reading-page links in the public ChineseStudy directories, not independently verified completeness of a critical edition or every translation. Chinese and English have matching directory counts here; Spanish coverage remains limited. Audio and numbered source notes are available on selected pages. See the [current directory](https://chinesestudy.org/en/books/mengzi/).
